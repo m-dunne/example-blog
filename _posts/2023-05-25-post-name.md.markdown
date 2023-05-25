@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Welcome to The Jungle"
+date: 2023-05-03 10:50:34 +0100
+categories: GIS Update
+image: /img/home.jpg
+author: Michael Dunne
+intro: Kevin McHead In The Cloud
+intro_image: /img/home.jpg
+intro_image_ratio: is-16by9
+---
+
+# WNC Is De Best
+
+## Thrive with us
+
+### Development is soooo easy
